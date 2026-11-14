@@ -1,0 +1,683 @@
+{
+  "lead": "La Cava Gastrobar (Cuenca) · 1 local · dueño nuevo: Humberto",
+  "generado": "2026-11-14",
+  "locales": [
+    {
+      "id": "local_1_poeta_diego_jesus_jimenez",
+      "nombre": "La Cava Gastrobar",
+      "direccion": "C. del Poeta Diego Jesús Jiménez 7, 16001 Cuenca",
+      "cid": "0xd5d677def8cf611:0xe71c750c1ea8b50a",
+      "maps": "https://www.google.com/maps?cid=16653314217023681802",
+      "place_id": "ChIJEfaM731nXQ0RCrWoHgx1HOc",
+      "plus_code": "3VC7+5Q Cuenca",
+      "coords": [
+        40.07049,
+        -2.1355305
+      ],
+      "rating_google": 4.6,
+      "resenas_google": 499,
+      "distribucion_estrellas_1a5": [
+        32,
+        6,
+        7,
+        56,
+        398
+      ],
+      "categoria_google": "Restaurante",
+      "horario_google": "lun y mar cerrado · mié-jue 12:00-16:30 y 20:30-23:00 · vie-sáb 12:00-16:30 y 20:30-23:30 · dom 12:00-17:00",
+      "telefono": "+34 679 08 73 00",
+      "web": null,
+      "rango_precio": {
+        "valor": "20-30 € por persona (el más citado)",
+        "verificado": false,
+        "nota": "La vista limitada de Maps no muestra el rango de precio de la ficha. Las 4 reseñas del preview con «precio por persona» dicen 20-30, 40-50, 20-30 y 60-70 €. InTravel y Restaurant Guru dan 20-30 €, y Guía Repsol «menos de 35 €»."
+      },
+      "carta_en_ficha": false,
+      "otras_valoraciones": {
+        "tripadvisor": "4,5 (123), según Restaurant Guru",
+        "facebook": "100 % recomendado (21 opiniones)",
+        "guia_repsol": "Solete (verano 2021)"
+      },
+      "nota_direccion": "Guía Repsol, Gastroranking, carta.menu y Pidemesa la ubican aún en C/ Fray Luis de León (6, 11 o 16) y algunas dan el teléfono antiguo 687 530 963. Google Maps, Facebook, Visita Cuenca y Restaurant Guru la ubican en Poeta Diego Jesús Jiménez 7 con el 679 08 73 00, que coincide con el encargo."
+    }
+  ],
+  "redes": {
+    "facebook": "https://www.facebook.com/p/La-Cava-Gastrobar-100044475320345/",
+    "facebook_seguidores": 812,
+    "instagram": null,
+    "nota_instagram": "No se ha encontrado Instagram propio. @lacavagastrobar es OTRO negocio (carne a la caneca y micheladas, 18 seguidores) y NO es este local.",
+    "tripadvisor": "https://www.tripadvisor.es/Restaurant_Review-g262065-d14905693-Reviews-La_Cava_Gastrobar-Cuenca_Province_of_Cuenca_Castile_La_Mancha.html",
+    "restaurant_guru": "https://es.restaurantguru.com/La-Cava-Gastobar-Cuenca-Castile-La-Mancha",
+    "guia_repsol": "https://www.guiarepsol.com/es/fichas/restaurante/la-cava-gastrobar-326162/"
+  },
+  "logo_url": "https://raw.githubusercontent.com/aleguava/guava-leads-assets/main/la-cava-cuenca/logo.png",
+  "logo_blanco_url": "https://raw.githubusercontent.com/aleguava/guava-leads-assets/main/la-cava-cuenca/logo_blanco.png",
+  "logo_original_url": "https://raw.githubusercontent.com/aleguava/guava-leads-assets/main/la-cava-cuenca/logo_original.jpg",
+  "logo_completo_url": "https://raw.githubusercontent.com/aleguava/guava-leads-assets/main/la-cava-cuenca/logo_completo_botella.png",
+  "logo_hoja_url": "https://raw.githubusercontent.com/aleguava/guava-leads-assets/main/la-cava-cuenca/logo_hoja_comprobacion.jpg",
+  "logo_fuente": "Portada de la carta física fotografiada por un cliente (Restaurant Guru, agosto de 2020, foto de 900x895). Es la única pieza nítida del logo: la ficha de Maps no tiene foto de perfil con logo, el perfil de Facebook es una foto de la sala y no hay web ni favicon. El logotipo «LA CAVA GASTROBAR» se ha recortado sin redibujar y el fondo gris texturizado se ha quitado por diferencia con el fondo estimado. logo.png (1118x336) es solo el logotipo, escalado x2 con Lanczos para vídeo, en negro carbón (#1C1F20 medido, se exporta como #1F1F1F), con su variante blanca. logo_completo_botella.png (1132x1356) incluye la botella envuelta en espiral, pero la parte izquierda de la espiral queda cortada porque la tapaba el sello de Restaurant Guru. La misma botella aparece en el rótulo de fachada de 2020 («la cava gastrobar» en blanco sobre placa marrón). Con el dueño nuevo puede haber cambiado: en septiembre de 2026 publicaron en Facebook una pieza generada con IA con un «La Cava» en script de pincel sobre amarillo. Conviene pedirle a Humberto el archivo vectorial.",
+  "colores": [
+    {
+      "hex": "#1C1F20",
+      "rol": "tinta del logotipo «LA CAVA GASTROBAR» (negro carbón)",
+      "fuente": "mediana de los píxeles de tinta de la portada de la carta (rg_184)",
+      "verificado": true
+    },
+    {
+      "hex": "#B9B9B9",
+      "rol": "gris claro de la portada de la carta, fondo del logo con la botella",
+      "fuente": "mediana del fondo de la portada (rg_184; la luz de la foto puede oscurecerlo)",
+      "verificado": true
+    },
+    {
+      "hex": "#38312F",
+      "rol": "placa marrón oscura del rótulo de fachada «la cava gastrobar» (letras blancas)",
+      "fuente": "k-means sobre el rótulo de la fachada (rg_190, ago-2020)",
+      "verificado": true
+    },
+    {
+      "hex": "#EAE9E1",
+      "rol": "fachada de piedra clara",
+      "fuente": "k-means sobre la fachada (rg_190)",
+      "verificado": true
+    },
+    {
+      "hex": "#BF8C5B",
+      "rol": "madera clara de las mesas",
+      "fuente": "k-means sobre la sala (Maps l1_01)",
+      "verificado": true
+    },
+    {
+      "hex": "#4B321F",
+      "rol": "madera oscura y cuero de las sillas",
+      "fuente": "k-means sobre la sala (FB 588337235992115)",
+      "verificado": true
+    },
+    {
+      "hex": "#1D150E",
+      "rol": "negro cálido de los manteles individuales, el mobiliario y la sombra",
+      "fuente": "k-means sobre la sala (FB 588337235992115)",
+      "verificado": true
+    },
+    {
+      "hex": "#D5CCA2",
+      "rol": "letras doradas «LA CAVA» del panel vertical de la sala",
+      "fuente": "k-means sobre el panel (rg_061, dic-2024)",
+      "verificado": true
+    },
+    {
+      "hex": "#A59173",
+      "rol": "tono medio del papel pintado tropical y del muro de tacos de madera",
+      "fuente": "k-means sobre la sala (FB 588337232658782)",
+      "verificado": true
+    },
+    {
+      "hex": "#F4CA28",
+      "rol": "amarillo de la pieza «Ampliamos horario» (sept-2026). Solo aparece en esta pieza, generada con IA, así que no se considera color de marca consolidado",
+      "fuente": "k-means sobre la publicación de FB 1787219396103887",
+      "verificado": false
+    }
+  ],
+  "tipografia": {
+    "aproximada": true,
+    "titulos": "Logotipo de la carta: mayúsculas rotuladas a mano con trazo de rotulador, monolineal e irregular. Las más parecidas en Google Fonts son «Architects Daughter» y «Patrick Hand SC». Si se busca algo más gestual, «Permanent Marker», aunque es más gruesa.",
+    "texto": "El rótulo de fachada (2020) va en minúscula manuscrita fina, «la cava / gastrobar». Para textos, una sans humanista neutra como «Nunito Sans», que es una propuesta: no hay web con CSS donde medirla. La pieza de 2026 usa un script de pincel («La Cava»), parecido a «Kaushan Script»."
+  },
+  "estilo": "Gastrobar de cocina conquense con un giro creativo y emplatado cuidado: piezas de pizarra negra, cristal y loza clara sobre mesas de madera con manteles individuales negros. La sala es cálida, de madera, cuero y bombillas colgantes, con papel pintado tropical, jardín vertical y vinoteca acristalada. La identidad es informal y rotulada a mano: el logo «LA CAVA GASTROBAR» en negro carbón con una botella envuelta en espiral y un rótulo de fachada en placa marrón oscura con letra blanca.",
+  "fotos": [
+    {
+      "plato": "Codillo en su jugo",
+      "categoria": "Codillo en su jugo",
+      "fuente": "google_maps_cliente",
+      "origen_url": null,
+      "ancho": 2400,
+      "alto": 1800,
+      "nota": "con espárragos trigueros y patata gratinada",
+      "local": "local_1_poeta_diego_jesus_jimenez",
+      "url": "https://raw.githubusercontent.com/aleguava/guava-leads-assets/main/la-cava-cuenca/platos/codillo-en-su-jugo-1.jpg"
+    },
+    {
+      "plato": "Codillo en su jugo",
+      "categoria": "Codillo en su jugo",
+      "fuente": "google_maps_cliente",
+      "origen_url": null,
+      "ancho": 1800,
+      "alto": 2400,
+      "nota": "con pimientos y patata gratinada",
+      "local": "local_1_poeta_diego_jesus_jimenez",
+      "url": "https://raw.githubusercontent.com/aleguava/guava-leads-assets/main/la-cava-cuenca/platos/codillo-en-su-jugo-2.jpg"
+    },
+    {
+      "plato": "Croquetas",
+      "categoria": "Croquetas",
+      "fuente": "google_maps_cliente",
+      "origen_url": null,
+      "ancho": 1800,
+      "alto": 2400,
+      "nota": "presentadas en palillo sobre galleta salada y salsa naranja; variedad sin verificar",
+      "local": "local_1_poeta_diego_jesus_jimenez",
+      "url": "https://raw.githubusercontent.com/aleguava/guava-leads-assets/main/la-cava-cuenca/platos/croquetas-1.jpg"
+    },
+    {
+      "plato": "Croquetas",
+      "categoria": "Croquetas",
+      "fuente": "google_maps_cliente",
+      "origen_url": null,
+      "ancho": 2400,
+      "alto": 1800,
+      "nota": "misma presentación con perlas negras encima (probable variedad de marisco); estimado",
+      "local": "local_1_poeta_diego_jesus_jimenez",
+      "url": "https://raw.githubusercontent.com/aleguava/guava-leads-assets/main/la-cava-cuenca/platos/croquetas-2.jpg"
+    },
+    {
+      "plato": "Pulpo (sobre migas / a la brasa)",
+      "categoria": "Pulpo",
+      "fuente": "google_maps_cliente",
+      "origen_url": null,
+      "ancho": 1350,
+      "alto": 2400,
+      "nota": "pulpo laminado sobre migas; nombre exacto en carta sin verificar",
+      "local": "local_1_poeta_diego_jesus_jimenez",
+      "url": "https://raw.githubusercontent.com/aleguava/guava-leads-assets/main/la-cava-cuenca/platos/pulpo-1.jpg"
+    },
+    {
+      "plato": "Pulpo (sobre migas / a la brasa)",
+      "categoria": "Pulpo",
+      "fuente": "google_maps_cliente",
+      "origen_url": null,
+      "ancho": 1800,
+      "alto": 2400,
+      "nota": "",
+      "local": "local_1_poeta_diego_jesus_jimenez",
+      "url": "https://raw.githubusercontent.com/aleguava/guava-leads-assets/main/la-cava-cuenca/platos/pulpo-2.jpg"
+    },
+    {
+      "plato": "Ensalada de ahumados con tomate",
+      "categoria": "Ensaladas",
+      "fuente": "google_maps_cliente",
+      "origen_url": null,
+      "ancho": 1800,
+      "alto": 2400,
+      "nota": "salmón ahumado, gambas y tomate",
+      "local": "local_1_poeta_diego_jesus_jimenez",
+      "url": "https://raw.githubusercontent.com/aleguava/guava-leads-assets/main/la-cava-cuenca/platos/ensaladas-1.jpg"
+    },
+    {
+      "plato": "Ensalada de ahumados con tomate",
+      "categoria": "Ensaladas",
+      "fuente": "google_maps_cliente",
+      "origen_url": null,
+      "ancho": 2400,
+      "alto": 1800,
+      "nota": "",
+      "local": "local_1_poeta_diego_jesus_jimenez",
+      "url": "https://raw.githubusercontent.com/aleguava/guava-leads-assets/main/la-cava-cuenca/platos/ensaladas-2.jpg"
+    },
+    {
+      "plato": "Tellinas",
+      "categoria": "Tellinas",
+      "fuente": "google_maps_cliente",
+      "origen_url": null,
+      "ancho": 2400,
+      "alto": 1800,
+      "nota": "",
+      "local": "local_1_poeta_diego_jesus_jimenez",
+      "url": "https://raw.githubusercontent.com/aleguava/guava-leads-assets/main/la-cava-cuenca/platos/tellinas-1.jpg"
+    },
+    {
+      "plato": "Tartar de salmón ahumado",
+      "categoria": "Tartar",
+      "fuente": "google_maps_cliente",
+      "origen_url": null,
+      "ancho": 1350,
+      "alto": 2400,
+      "nota": "ESTIMADO: tartar rosado con pepinillo; podría ser de atún",
+      "local": "local_1_poeta_diego_jesus_jimenez",
+      "url": "https://raw.githubusercontent.com/aleguava/guava-leads-assets/main/la-cava-cuenca/platos/tartar-1.jpg"
+    },
+    {
+      "plato": "Surtido de postres (torrija, tarta de queso, tarta de chocolate)",
+      "categoria": "Postres",
+      "fuente": "google_maps_cliente",
+      "origen_url": null,
+      "ancho": 1800,
+      "alto": 2400,
+      "nota": "ESTIMADO a ojo",
+      "local": "local_1_poeta_diego_jesus_jimenez",
+      "url": "https://raw.githubusercontent.com/aleguava/guava-leads-assets/main/la-cava-cuenca/platos/postres-1.jpg"
+    },
+    {
+      "plato": "Tarta de chocolate / oreo",
+      "categoria": "Postres",
+      "fuente": "google_maps_cliente",
+      "origen_url": null,
+      "ancho": 2400,
+      "alto": 1800,
+      "nota": "ESTIMADO: tarta oscura con nata",
+      "local": "local_1_poeta_diego_jesus_jimenez",
+      "url": "https://raw.githubusercontent.com/aleguava/guava-leads-assets/main/la-cava-cuenca/platos/postres-2.jpg"
+    },
+    {
+      "plato": "Zamburiñas a la plancha",
+      "categoria": "Zamburiñas",
+      "fuente": "restaurantguru_cliente",
+      "origen_url": "https://img05.restaurantguru.com/rd9a-food-La-Cava-Gastrobar-2025-09.jpg",
+      "ancho": 1200,
+      "alto": 1104,
+      "nota": "",
+      "local": "local_1_poeta_diego_jesus_jimenez",
+      "url": "https://raw.githubusercontent.com/aleguava/guava-leads-assets/main/la-cava-cuenca/platos/zamburinas-1.jpg"
+    },
+    {
+      "plato": "Zamburiñas a la plancha",
+      "categoria": "Zamburiñas",
+      "fuente": "restaurantguru_cliente",
+      "origen_url": "https://img05.restaurantguru.com/rb8a-La-cava-gastrobar-seafood-2022-10-1.jpg",
+      "ancho": 816,
+      "alto": 873,
+      "nota": "",
+      "local": "local_1_poeta_diego_jesus_jimenez",
+      "url": "https://raw.githubusercontent.com/aleguava/guava-leads-assets/main/la-cava-cuenca/platos/zamburinas-2.jpg"
+    },
+    {
+      "plato": "Rabo de toro",
+      "categoria": "Rabo de toro",
+      "fuente": "restaurantguru_cliente",
+      "origen_url": "https://img05.restaurantguru.com/r0aa-La-Cava-Gastrobar-meals-2024-12-5.jpg",
+      "ancho": 1200,
+      "alto": 1104,
+      "nota": "ESTIMADO: carne guisada con hueso, guarnición de pimientos y patata",
+      "local": "local_1_poeta_diego_jesus_jimenez",
+      "url": "https://raw.githubusercontent.com/aleguava/guava-leads-assets/main/la-cava-cuenca/platos/rabo-de-toro-1.jpg"
+    },
+    {
+      "plato": "Rabo de toro",
+      "categoria": "Rabo de toro",
+      "fuente": "restaurantguru_cliente",
+      "origen_url": "https://img05.restaurantguru.com/r0f2-meals-La-Cava-Gastrobar-2024-12.jpg",
+      "ancho": 1200,
+      "alto": 1104,
+      "nota": "ESTIMADO, igual que la anterior",
+      "local": "local_1_poeta_diego_jesus_jimenez",
+      "url": "https://raw.githubusercontent.com/aleguava/guava-leads-assets/main/la-cava-cuenca/platos/rabo-de-toro-2.jpg"
+    },
+    {
+      "plato": "Alcachofas (con jamón)",
+      "categoria": "Alcachofas",
+      "fuente": "restaurantguru_cliente",
+      "origen_url": "https://img05.restaurantguru.com/r619-seafood-La-Cava-Gastrobar-2024-09-1.jpg",
+      "ancho": 1200,
+      "alto": 1104,
+      "nota": "",
+      "local": "local_1_poeta_diego_jesus_jimenez",
+      "url": "https://raw.githubusercontent.com/aleguava/guava-leads-assets/main/la-cava-cuenca/platos/alcachofas-1.jpg"
+    },
+    {
+      "plato": "Morteruelo",
+      "categoria": "Morteruelo",
+      "fuente": "restaurantguru_cliente",
+      "origen_url": "https://img05.restaurantguru.com/rfdf-La-Cava-Gastrobar-dishes-2024-12-2.jpg",
+      "ancho": 816,
+      "alto": 873,
+      "nota": "ESTIMADO: paté caliente en sartén con picatostes, servido como el morteruelo",
+      "local": "local_1_poeta_diego_jesus_jimenez",
+      "url": "https://raw.githubusercontent.com/aleguava/guava-leads-assets/main/la-cava-cuenca/platos/morteruelo-1.jpg"
+    },
+    {
+      "plato": "Morteruelo",
+      "categoria": "Morteruelo",
+      "fuente": "restaurantguru_cliente",
+      "origen_url": "https://img05.restaurantguru.com/re56-La-cava-gastrobar-meals.jpg",
+      "ancho": 1200,
+      "alto": 1104,
+      "nota": "ESTIMADO",
+      "local": "local_1_poeta_diego_jesus_jimenez",
+      "url": "https://raw.githubusercontent.com/aleguava/guava-leads-assets/main/la-cava-cuenca/platos/morteruelo-2.jpg"
+    },
+    {
+      "plato": "Torrija con helado de canela",
+      "categoria": "Postres",
+      "fuente": "restaurantguru_cliente",
+      "origen_url": "https://img05.restaurantguru.com/r6f2-La-Cava-Gastrobar-food-2024-12-1.jpg",
+      "ancho": 1200,
+      "alto": 1099,
+      "nota": "ESTIMADO: torrija con bola de helado",
+      "local": "local_1_poeta_diego_jesus_jimenez",
+      "url": "https://raw.githubusercontent.com/aleguava/guava-leads-assets/main/la-cava-cuenca/platos/postres-3.jpg"
+    },
+    {
+      "plato": "Torrija con helado de canela",
+      "categoria": "Postres",
+      "fuente": "restaurantguru_cliente",
+      "origen_url": "https://img05.restaurantguru.com/r70f-La-Cava-Gastrobar-chocolate-mousse.jpg",
+      "ancho": 816,
+      "alto": 873,
+      "nota": "ESTIMADO",
+      "local": "local_1_poeta_diego_jesus_jimenez",
+      "url": "https://raw.githubusercontent.com/aleguava/guava-leads-assets/main/la-cava-cuenca/platos/postres-4.jpg"
+    },
+    {
+      "plato": "Tarta de queso",
+      "categoria": "Postres",
+      "fuente": "restaurantguru_cliente",
+      "origen_url": "https://img05.restaurantguru.com/r313-meals-La-Cava-Gastrobar-2024-12-4.jpg",
+      "ancho": 1200,
+      "alto": 1104,
+      "nota": "",
+      "local": "local_1_poeta_diego_jesus_jimenez",
+      "url": "https://raw.githubusercontent.com/aleguava/guava-leads-assets/main/la-cava-cuenca/platos/postres-5.jpg"
+    },
+    {
+      "plato": "Tortilla con alcachofas, cheddar y foie",
+      "categoria": "Tortilla",
+      "fuente": "restaurantguru_cliente",
+      "origen_url": "https://img05.restaurantguru.com/r6a3-La-Cava-Gastrobar-food-2025-09.jpg",
+      "ancho": 1200,
+      "alto": 1104,
+      "nota": "ESTIMADO: tortilla abierta con patata paja; variedad sin verificar",
+      "local": "local_1_poeta_diego_jesus_jimenez",
+      "url": "https://raw.githubusercontent.com/aleguava/guava-leads-assets/main/la-cava-cuenca/platos/tortilla-1.jpg"
+    }
+  ],
+  "ambiente": [
+    {
+      "tipo": "sala",
+      "descripcion": "sala con mesas altas de madera, vinoteca acristalada y panel «LA CAVA»",
+      "fuente": "google_maps_cliente",
+      "origen_url": null,
+      "ancho": 2400,
+      "alto": 1800,
+      "local": "local_1_poeta_diego_jesus_jimenez",
+      "url": "https://raw.githubusercontent.com/aleguava/guava-leads-assets/main/la-cava-cuenca/ambiente/sala-1.jpg"
+    },
+    {
+      "tipo": "barra",
+      "descripcion": "barra larga con botellero y lámparas de madera",
+      "fuente": "restaurantguru_cliente",
+      "origen_url": "https://img05.restaurantguru.com/rf6a-interior-La-Cava-Gastrobar-2024-09.jpg",
+      "ancho": 1200,
+      "alto": 1104,
+      "local": "local_1_poeta_diego_jesus_jimenez",
+      "url": "https://raw.githubusercontent.com/aleguava/guava-leads-assets/main/la-cava-cuenca/ambiente/barra-1.jpg"
+    },
+    {
+      "tipo": "barra",
+      "descripcion": "entrada y barra con el panel vertical «LA CAVA»",
+      "fuente": "restaurantguru_cliente",
+      "origen_url": "https://img05.restaurantguru.com/r12c-La-Cava-Gastrobar-interior-2024-12.jpg",
+      "ancho": 1200,
+      "alto": 1104,
+      "local": "local_1_poeta_diego_jesus_jimenez",
+      "url": "https://raw.githubusercontent.com/aleguava/guava-leads-assets/main/la-cava-cuenca/ambiente/barra-2.jpg"
+    },
+    {
+      "tipo": "sala",
+      "descripcion": "sala con papel pintado tropical, jardín vertical y bicicleta decorativa",
+      "fuente": "restaurantguru_cliente",
+      "origen_url": "https://img05.restaurantguru.com/r055-La-Cava-Gastrobar-exterior.jpg",
+      "ancho": 1200,
+      "alto": 1104,
+      "local": "local_1_poeta_diego_jesus_jimenez",
+      "url": "https://raw.githubusercontent.com/aleguava/guava-leads-assets/main/la-cava-cuenca/ambiente/sala-2.jpg"
+    }
+  ],
+  "ambiente_sin_foto": [
+    "fachada: solo hay una foto (2020) con el rótulo y está tapada por un grupo de personas en primer plano, así que se excluye; Street View devuelve 403 al descargar",
+    "terraza: no se ha encontrado ninguna foto de terraza"
+  ],
+  "categorias_sin_foto": [
+    "Croquetas de cochinillo con manzana",
+    "Croquetas de carabineros",
+    "Croquetas de bacalao",
+    "Croquetas líquidas",
+    "Chipirones",
+    "Bacalao en tempura",
+    "Cocochas al pil pil",
+    "Sardina / cabracho",
+    "Cochinillo",
+    "Manitas deshuesadas",
+    "Lacón",
+    "Patatas revolconas",
+    "Timbal de ensaladilla",
+    "Ensaladilla de pulpo",
+    "Revuelto",
+    "Tarta borracho",
+    "Tarta de oreo"
+  ],
+  "carta_url": "https://raw.githubusercontent.com/aleguava/guava-leads-assets/main/la-cava-cuenca/carta.json",
+  "carta": {
+    "disponible": false,
+    "items": [],
+    "motivo": "No hay carta pública con precios. El local no tiene web propia (la ficha de Maps pide «Añadir sitio web» y el botón «Ver web» de Guía Repsol está vacío). Maps sin sesión sirve la vista limitada, sin pestaña de Menú ni fotos de carta. Restaurant Guru dice «Subir menú» (no tiene carta). TripAdvisor (d14905693) y TheFork bloquean el navegador headless o no tienen ficha. En Facebook solo hay 9 fotos públicas y ninguna es de la carta. Entre las 203 fotos de Restaurant Guru solo aparece la portada de la carta (logo), sin páginas interiores. Carta.menu muestra 4 entradas aportadas por usuarios («Vino 3 €», Croquetas, Ensalada pequeña, Tarta de queso), que no se toman como carta porque son de terceros y no tienen fecha.",
+    "platos_documentados_sin_precio": 29
+  },
+  "popular_times": {
+    "local_1_poeta_diego_jesus_jimenez": {
+      "lunes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "martes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "miercoles": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "jueves": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "viernes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sabado": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "domingo": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "disponible": false,
+    "nota": "SIN DATO. Google Maps sin sesión sirve la vista limitada: sin horas punta ni pestaña de menú, y solo 5 reseñas y 15 fotos. El token de Apify está revocado y DataForSEO no tiene saldo. Los arrays van a 0 como marcador: no son datos reales."
+  },
+  "delivery": {
+    "glovo": {
+      "presente": false,
+      "url": null,
+      "carta": [],
+      "prueba": "glovoapp.com/es/es/cuenca/stores/la-cava-gastrobar y /la-cava devuelven «Esta página no existe». Glovo opera en Cuenca, pero no hay ficha del local y la búsqueda web no encuentra ninguna.",
+      "certeza": "media"
+    },
+    "uber_eats": {
+      "presente": false,
+      "url": null,
+      "carta": [],
+      "prueba": "ubereats.com/es/city/cuenca-clm devuelve «No hay nada para comer aquí»: Uber Eats no opera en Cuenca",
+      "certeza": "alta"
+    },
+    "just_eat": {
+      "presente": false,
+      "url": null,
+      "carta": [],
+      "prueba": "just-eat.es/area/16001-cuenca lista 12 establecimientos y ninguno es La Cava; la URL directa del restaurante redirige a la home",
+      "certeza": "media"
+    }
+  },
+  "reservas": {
+    "sistema": "teléfono",
+    "telefono": "+34 679 08 73 00",
+    "thefork": null,
+    "covermanager": null,
+    "prueba": "No tiene web ni widget de reservas. Su Facebook dice «Haz tu reserva 679 087 300» (publicaciones de 2025 y 2026). No se ha encontrado ficha en TheFork (sin resultados en la búsqueda web; thefork.es no carga en el navegador headless). Restaurant Guru marca «Reserva» y las reseñas recomiendan reservar.",
+    "certeza": "media"
+  },
+  "fuentes_bloqueadas": {
+    "google_maps": "vista limitada sin sesión: 15 de 502 fotos, sin menú ni horas punta, con reseñas recortadas; la RPC de reseñas devuelve 403 y la búsqueda de Google da /sorry",
+    "tripadvisor": "bloquea el navegador headless (página vacía)",
+    "sluurpy": "certificado caducado y 502",
+    "carta.menu": "imágenes con 403 (Cloudflare)",
+    "apify": "token revocado",
+    "dataforseo": "sin saldo"
+  },
+  "fuentes_fotos": "12 fotos de platos y 1 de sala son de clientes en Google Maps (originales hasta 2400 px). 11 de platos y 3 de ambiente son de clientes en Restaurant Guru (1200 px), recortadas para quitar el sello con el muñeco que pone la plataforma en una esquina.",
+  "privacidad": "Las fotos se han vuelto a guardar sin EXIF. Se han excluido las fotos con caras en primer plano (grupos en la sala y en la fachada). Las fotos de cliente de Google Maps y de Restaurant Guru tienen derechos de sus autores: úsalas solo como maqueta en la demo y pide al restaurante sus fotos propias para producción."
+}

@@ -1,0 +1,248 @@
+{
+ "restaurante": "La Cava Gastrobar · C. del Poeta Diego Jesús Jiménez 7, 16001 Cuenca",
+ "generado": "2026-11-14",
+ "carta_disponible": false,
+ "motivo": "No hay carta pública con precios. El local no tiene web propia (la ficha de Maps pide «Añadir sitio web» y el botón «Ver web» de Guía Repsol está vacío). Maps sin sesión sirve la vista limitada, sin pestaña de Menú ni fotos de carta. Restaurant Guru dice «Subir menú» (no tiene carta). TripAdvisor (d14905693) y TheFork bloquean el navegador headless o no tienen ficha. En Facebook solo hay 9 fotos públicas y ninguna es de la carta. Entre las 203 fotos de Restaurant Guru solo aparece la portada de la carta (logo), sin páginas interiores. Carta.menu muestra 4 entradas aportadas por usuarios («Vino 3 €», Croquetas, Ensalada pequeña, Tarta de queso), que no se toman como carta porque son de terceros y no tienen fecha.",
+ "secciones": [],
+ "carta": [],
+ "platos_documentados_sin_precio": [
+  {
+   "categoria": "Croquetas",
+   "producto": "Croquetas de cochinillo con manzana",
+   "descripcion": null,
+   "precio": null,
+   "nota_precio": "sin precio: no hay carta accesible",
+   "fuente": "Guía Repsol (recomendación) y reseña Pidemesa 20-11-2022"
+  },
+  {
+   "categoria": "Croquetas",
+   "producto": "Croquetas de carabineros",
+   "descripcion": null,
+   "precio": null,
+   "nota_precio": "sin precio: no hay carta accesible",
+   "fuente": "reseña Google vía carta.menu (Isacio, 11-10-2023: «Croquetas de Carabineros… son 6»)"
+  },
+  {
+   "categoria": "Croquetas",
+   "producto": "Croquetas de bacalao",
+   "descripcion": null,
+   "precio": null,
+   "nota_precio": "sin precio: no hay carta accesible",
+   "fuente": "resumen de reseñas (búsqueda web); sin fuente primaria"
+  },
+  {
+   "categoria": "Croquetas",
+   "producto": "Croquetas líquidas",
+   "descripcion": null,
+   "precio": null,
+   "nota_precio": "sin precio: no hay carta accesible",
+   "fuente": "chip de reseñas Restaurant Guru"
+  },
+  {
+   "categoria": "Mar",
+   "producto": "Zamburiñas a la plancha",
+   "descripcion": null,
+   "precio": null,
+   "nota_precio": "sin precio: no hay carta accesible",
+   "fuente": "Guía Repsol + chip «zamburiñas» en Maps (6 reseñas) + fotos"
+  },
+  {
+   "categoria": "Mar",
+   "producto": "Tellinas",
+   "descripcion": null,
+   "precio": null,
+   "nota_precio": "sin precio: no hay carta accesible",
+   "fuente": "chip «tellinas» en Maps (5 reseñas) + fotos"
+  },
+  {
+   "categoria": "Mar",
+   "producto": "Chipirones",
+   "descripcion": null,
+   "precio": null,
+   "nota_precio": "sin precio: no hay carta accesible",
+   "fuente": "chip «chipirones» en Maps (14 reseñas)"
+  },
+  {
+   "categoria": "Mar",
+   "producto": "Bacalao en tempura",
+   "descripcion": null,
+   "precio": null,
+   "nota_precio": "sin precio: no hay carta accesible",
+   "fuente": "reseña destacada en Maps («no dejéis de pedir el Bacalao en tempura»)"
+  },
+  {
+   "categoria": "Mar",
+   "producto": "Pulpo (sobre migas / a la brasa)",
+   "descripcion": null,
+   "precio": null,
+   "nota_precio": "sin precio: no hay carta accesible",
+   "fuente": "fotos de clientes; nombre exacto en carta sin verificar"
+  },
+  {
+   "categoria": "Mar",
+   "producto": "Cocochas al pil pil",
+   "descripcion": null,
+   "precio": null,
+   "nota_precio": "sin precio: no hay carta accesible",
+   "fuente": "resumen de reseñas (búsqueda web); sin fuente primaria"
+  },
+  {
+   "categoria": "Mar",
+   "producto": "Tartar de salmón ahumado",
+   "descripcion": null,
+   "precio": null,
+   "nota_precio": "sin precio: no hay carta accesible",
+   "fuente": "Gastroranking/Restaurant Guru (reseñas) + fotos"
+  },
+  {
+   "categoria": "Mar",
+   "producto": "Sardina / cabracho",
+   "descripcion": null,
+   "precio": null,
+   "nota_precio": "sin precio: no hay carta accesible",
+   "fuente": "chips «sardina» y «de cabracho» en Restaurant Guru"
+  },
+  {
+   "categoria": "Carnes",
+   "producto": "Codillo en su jugo",
+   "descripcion": null,
+   "precio": null,
+   "nota_precio": "sin precio: no hay carta accesible",
+   "fuente": "chip «codillo» en Maps (12) + Restaurant Guru «Knuckle in its Juice» + fotos"
+  },
+  {
+   "categoria": "Carnes",
+   "producto": "Rabo de toro",
+   "descripcion": null,
+   "precio": null,
+   "nota_precio": "sin precio: no hay carta accesible",
+   "fuente": "chip «rabo de toro» en Maps (10) + fotos"
+  },
+  {
+   "categoria": "Carnes",
+   "producto": "Cochinillo",
+   "descripcion": null,
+   "precio": null,
+   "nota_precio": "sin precio: no hay carta accesible",
+   "fuente": "chip «cochinillo» en Maps (6)"
+  },
+  {
+   "categoria": "Carnes",
+   "producto": "Manitas deshuesadas",
+   "descripcion": null,
+   "precio": null,
+   "nota_precio": "sin precio: no hay carta accesible",
+   "fuente": "Restaurant Guru «Boneless Trotters»"
+  },
+  {
+   "categoria": "Carnes",
+   "producto": "Lacón",
+   "descripcion": null,
+   "precio": null,
+   "nota_precio": "sin precio: no hay carta accesible",
+   "fuente": "resumen de reseñas (búsqueda web)"
+  },
+  {
+   "categoria": "Cocina conquense",
+   "producto": "Morteruelo",
+   "descripcion": null,
+   "precio": null,
+   "nota_precio": "sin precio: no hay carta accesible",
+   "fuente": "chip «morteruelo» en Maps (5) + Restaurant Guru"
+  },
+  {
+   "categoria": "Cocina conquense",
+   "producto": "Patatas revolconas",
+   "descripcion": null,
+   "precio": null,
+   "nota_precio": "sin precio: no hay carta accesible",
+   "fuente": "chip «con Patatas Revolconas» en Restaurant Guru"
+  },
+  {
+   "categoria": "Verduras y entrantes",
+   "producto": "Alcachofas (con jamón)",
+   "descripcion": null,
+   "precio": null,
+   "nota_precio": "sin precio: no hay carta accesible",
+   "fuente": "chip «alcachofas» en Maps (17) + fotos"
+  },
+  {
+   "categoria": "Verduras y entrantes",
+   "producto": "Ensalada de ahumados con tomate",
+   "descripcion": null,
+   "precio": null,
+   "nota_precio": "sin precio: no hay carta accesible",
+   "fuente": "Restaurant Guru «Smoked Salad with Tomato» + fotos"
+  },
+  {
+   "categoria": "Verduras y entrantes",
+   "producto": "Timbal de ensaladilla",
+   "descripcion": null,
+   "precio": null,
+   "nota_precio": "sin precio: no hay carta accesible",
+   "fuente": "chip Restaurant Guru"
+  },
+  {
+   "categoria": "Verduras y entrantes",
+   "producto": "Ensaladilla de pulpo",
+   "descripcion": null,
+   "precio": null,
+   "nota_precio": "sin precio: no hay carta accesible",
+   "fuente": "resumen de reseñas (búsqueda web)"
+  },
+  {
+   "categoria": "Huevos",
+   "producto": "Tortilla con alcachofas, cheddar y foie",
+   "descripcion": null,
+   "precio": null,
+   "nota_precio": "sin precio: no hay carta accesible",
+   "fuente": "reseña Pidemesa 20-11-2022"
+  },
+  {
+   "categoria": "Huevos",
+   "producto": "Revuelto",
+   "descripcion": null,
+   "precio": null,
+   "nota_precio": "sin precio: no hay carta accesible",
+   "fuente": "Gastroranking/Restaurant Guru (palabras de reseñas)"
+  },
+  {
+   "categoria": "Postres",
+   "producto": "Torrija con helado de canela",
+   "descripcion": null,
+   "precio": null,
+   "nota_precio": "sin precio: no hay carta accesible",
+   "fuente": "Restaurant Guru + reseña Pidemesa"
+  },
+  {
+   "categoria": "Postres",
+   "producto": "Tarta borracho",
+   "descripcion": null,
+   "precio": null,
+   "nota_precio": "sin precio: no hay carta accesible",
+   "fuente": "Restaurant Guru «Boorracho Cake»"
+  },
+  {
+   "categoria": "Postres",
+   "producto": "Tarta de queso",
+   "descripcion": null,
+   "precio": null,
+   "nota_precio": "sin precio: no hay carta accesible",
+   "fuente": "carta.menu y Restaurant Guru"
+  },
+  {
+   "categoria": "Postres",
+   "producto": "Tarta de oreo",
+   "descripcion": null,
+   "precio": null,
+   "nota_precio": "sin precio: no hay carta accesible",
+   "fuente": "Restaurant Guru + fotos"
+  }
+ ],
+ "precio_medio_por_persona": {
+  "valor": "20-30 € (rango más citado); reseñas de Google entre 20-30 y 60-70 €",
+  "fuente": "preview de Maps (4 reseñas con «precio por persona»: 20-30, 40-50, 20-30, 60-70 €), InTravel/Restaurant Guru 20-30 €, Guía Repsol «menos de 35 €»",
+  "verificado": false
+ },
+ "accion": "Pedir la carta a Humberto (o una foto de cada página) y transcribirla con este mismo formato {categoria, producto, descripcion, precio}."
+}
